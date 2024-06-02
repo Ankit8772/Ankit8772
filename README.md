@@ -1,4 +1,4 @@
-![Masteread](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="banner" width="1280px" height="640px">
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A emerging Full-Stack Developer</h3>
 <img align= "right" alt= "Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl0aXpoNHBtYjhweGR1NXN5ZXVmbXFodnp1M2ZrN2d6ejd1bWw4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"
