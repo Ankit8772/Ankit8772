@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="banner" width="1280px" height="640px">
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A emerging Full-Stack Developer</h3>
+<h3 align="center">Emerging Data Scientist</h3>
 <img align= "right" alt= "Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl0aXpoNHBtYjhweGR1NXN5ZXVmbXFodnp1M2ZrN2d6ejd1bWw4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit8772&label=Profile%20views&color=0e75b6&style=flat" alt="ankit8772" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ankit_897" target="blank"><img src="https://img.shields.io/twitter/follow/ankit_897?logo=twitter&style=for-the-badge" alt="ankit_897" /></a> </p>
 
-- 🔭 I’m currently working on **AI Saas Platform**
+- 🔭 I’m currently working on **Deep Learning End to End Projects**
 
-- 🌱 I’m currently learning **MERN and Basics of ML**
+- 🌱 I’m currently learning **ML-Ops Gen-Ai and Agentic AI**
 
 - 📫 How to reach me **aankit95087@gmail.com**
 
