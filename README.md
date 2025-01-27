@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankit_897" target="blank"><img src="https://img.shields.io/twitter/follow/ankit_897?logo=twitter&style=for-the-badge" alt="ankit_897" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning End to End Projects**
+- 🔭 I’m currently working on **Deep Learning End to End Projects **
 
 - 🌱 I’m currently learning **ML-Ops Gen-Ai and Agentic AI**
 
